@@ -20,6 +20,7 @@ public class SumValidation {
 			int amount = price * copies;
 			System.out.println(amount);
 			sum = sum + amount;
+			System.out.println(sum);
 			
 		}
 		System.out.println(sum);
